@@ -1,2 +1,2 @@
-# -Strategies-for-Profitability-in-the-Airline-Industry
- Strategies for Profitability in the Airline Industry
+# Airline Occupancy Analysis
+ The project aims to increase the occupancy rate on low-performing flights to boost profitability and mitigate industry challenges. The project has three objectives: increase the occupancy rate, improve pricing strategy, and enhance customer experience. Achieving these objectives can help the company differentiate itself and increase customer loyalty. Tech: Jupyter Notebook
